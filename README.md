@@ -1,8 +1,8 @@
-**Natours**
+# **Natours**
 
 Learning to code Advanced CSS and SASS
 
-**Technologies used**
+# **Technologies used**
 
 HTML5
 
